@@ -19,7 +19,7 @@ namespace win.rentas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hola mundo soy Anner Torres");
+            MessageBox.Show("hola a todos soy Anner Torres");
         }
     }
 }
